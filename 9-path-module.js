@@ -16,3 +16,5 @@ console.log(base); // test.txt
 const absolute = path.resolve(__dirname,'test.txt');
 console.log(absolute);
 // C:\Users\harak\OneDrive\Documents\ProgWorkshop\node-smilga-tutorial\test.txt
+
+const absolute = path.resolve(__dirname,'nodemon');

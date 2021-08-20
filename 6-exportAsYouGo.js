@@ -1,3 +1,4 @@
+// First export for items array, second export for my_daughter object
 module.exports.items = ['item1', 'item2'];
 const person = {
    name: 'Stephanie',
